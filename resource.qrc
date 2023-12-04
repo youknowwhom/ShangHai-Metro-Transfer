@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/font">
+        <file>corbel.ttf</file>
+        <file>corbelb.ttf</file>
+        <file>corbeli.ttf</file>
+        <file>corbell.ttf</file>
+        <file>corbelli.ttf</file>
+        <file>corbelz.ttf</file>
+        <file>MiSans-Regular.ttf</file>
+        <file>MiSans-Demibold.ttf</file>
+        <file>MiSans-Light.ttf</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>close.png</file>
+        <file>minimize.png</file>
+        <file>choose.png</file>
+    </qresource>
+    <qresource prefix="/config"/>
+</RCC>
